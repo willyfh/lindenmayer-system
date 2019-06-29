@@ -6,9 +6,11 @@ How to use the program
 	
 2. The program will be running, and the resulting string (L-Systems) will be displayed at the console.
 
-
 Output
 ---------------------
+
+*Number of steps defined in the source code*
+
 **Lindenmayer 1**
 
 step= 0 ,        C
